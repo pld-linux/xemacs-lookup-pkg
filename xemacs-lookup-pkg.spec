@@ -2,12 +2,12 @@ Summary:	Dictionary support
 Summary(pl):	Obs³uga s³ownika
 Name:		xemacs-lookup-pkg
 %define 	srcname	lookup
-Version:	1.13
+Version:	1.14
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	cd658e3024349bf67743f6a0cce96be5
+# Source0-md5:	f48776563d7fbd0852ad73ac9c513260
 #Patch0:	xemacs-lookup-pkg-info.patch
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
