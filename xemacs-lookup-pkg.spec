@@ -16,13 +16,11 @@ Requires:	xemacs
 Requires:	xemacs-cookie-pkg
 Requires:	xemacs-mule-base-pkg
 Requires:	xemacs-lookup-pkg
-BuildRoot:	/tmp/%{name}-%{version}-root
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 
-
 %description -l pl 
-
 
 %prep
 %setup -q -c
