@@ -2,7 +2,7 @@ Summary:	Dictionary support
 Summary(pl):	Dictionary support
 Name:		xemacs-lookup-pkg
 %define 	srcname	lookup
-Version:	1.04
+Version:	1.05
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
