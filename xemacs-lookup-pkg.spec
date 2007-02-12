@@ -1,5 +1,5 @@
 Summary:	Dictionary support
-Summary(pl):	Obs≥uga s≥ownika
+Summary(pl.UTF-8):   Obs≈Çuga s≈Çownika
 Name:		xemacs-lookup-pkg
 %define 	srcname	lookup
 Version:	1.14
@@ -21,8 +21,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Dictionary support.
 
-%description -l pl
-Obs≥uga s≥ownika.
+%description -l pl.UTF-8
+Obs≈Çuga s≈Çownika.
 
 %prep
 %setup -q -c
