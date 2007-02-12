@@ -1,5 +1,5 @@
 Summary:	Dictionary support
-Summary(pl.UTF-8):   Obsługa słownika
+Summary(pl.UTF-8):	Obsługa słownika
 Name:		xemacs-lookup-pkg
 %define 	srcname	lookup
 Version:	1.14
