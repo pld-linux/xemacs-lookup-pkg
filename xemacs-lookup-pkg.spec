@@ -2,12 +2,12 @@ Summary:	Dictionary support
 Summary(pl.UTF-8):	Obsługa słownika
 Name:		xemacs-lookup-pkg
 %define 	srcname	lookup
-Version:	1.14
-Release:	2
+Version:	1.15
+Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	http://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	f48776563d7fbd0852ad73ac9c513260
+# Source0-md5:	975f4d8435cae628e7c6338115a3a542
 #Patch0:	xemacs-lookup-pkg-info.patch
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
