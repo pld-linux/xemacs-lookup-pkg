@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Obsługa słownika
 Name:		xemacs-lookup-pkg
 %define 	srcname	lookup
 Version:	1.15
-Release:	3
+Release:	4
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	http://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
